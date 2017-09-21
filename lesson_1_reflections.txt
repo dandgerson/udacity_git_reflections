@@ -1,0 +1,27 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+		The exact compare between two versions of a file, old and new, allow us to compare exactly difference. And what exactly was changed in concrete line when bug was created.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+		If we will have abillity to save our current version as the named savefile of this version whith all changes that we accepted in new version, we could have a list of this savefiles. And we could navigate in the list of our savefiles and loading them. Have load whith any savefile if we need it. For example if we find a bug which was created a month ago.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+		The main and biggest pros of manually choosing to create a commit is a project integratedness. When the size of a commit corresponded to specific project reqiurements. But in the other side this will demand from the programmer highly proffessionallity and deep reflection by the project. Vise versa when Google Docs automatically commiting a save, it is do not reqiure any prof skills and deep reflection in the project.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+		It is that because the programming project files is very deeply integratable one by other and the Git is a specifically version-control system for programming projects.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+		With this two commands we can completely browse history of all created commits. With git log we can seeing commits, autors, time of changes. And after choosing the intresting commit we can to explore more carifully what changes it's got excactly with git diff, wich to-line comparing this commit whith other which we refer. This commands very helpfull for exploring the history of commits of the project.
+
+6. How might using version control make you more confident to make changes that could break something?
+
+		This excellent opportunity like git checkout abcdef is loading our previos commit when our code were correct and allow us get starting befor we had broken our working code. It is a very usefull and practical abillity, that can allow us be more productive and more free with experiments.
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+		I want to use Git in all of my projects and pushing them in the Github.com, plus i want to get a coworking expirience. It would be a nice for me and my prof skills
