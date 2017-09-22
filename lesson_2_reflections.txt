@@ -23,3 +23,5 @@
 	By the result we have got a sincrete result of commits history of two branches with ther changes. And we connected them with one by other and connected ther changes and history. and on the diagram we can exactly seeing what happend in timeline with hisrory changes and branches.
 
 7. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	The main pros of Git's automatic merging is a comfortable, easest and quickly then manually. But cons we can named too. This is a conflicts which create when merging files contains a different chank of code. In this case we resolving conflicts by manually type of merging.
