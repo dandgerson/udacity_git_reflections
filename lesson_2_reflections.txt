@@ -20,4 +20,6 @@
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+	By the result we have got a sincrete result of commits history of two branches with ther changes. And we connected them with one by other and connected ther changes and history. and on the diagram we can exactly seeing what happend in timeline with hisrory changes and branches.
+
 7. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
