@@ -19,7 +19,7 @@
 
 5. How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+    Without Git and GitHub collaborate is to harder and so much longer. The Git and GitHub is very usefull workflowy instruments and it's the best solution for collaborate. Without using Git and GitHub I'll probably used a Dropbox and Skype conversations, but it will be ugly.
 
 6. When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
