@@ -23,4 +23,4 @@
 
 6. When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I've need a experimental changes or I collaboratte a project with other people, in this case I can send a pull request and ask a look for my changes my contributors. It's very usefull and easy.
