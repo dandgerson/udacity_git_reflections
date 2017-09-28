@@ -15,7 +15,7 @@
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+  The remote stored may had pushed more than one contributor if the remote store developed by the group of developers and up-to-date with it minimizing the branch conficts.
 
 5. How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
